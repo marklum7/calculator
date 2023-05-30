@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="TheSummandOne">Первое переменная:</string>
+    <string name="TheSummandTwo">Второе переменная:</string>
+    <string name="nameButton">Результат</string>
+    <string name="name_editText2">ваше число</string>
+    <string name="name_editText1">ваше число</string>
+</resources>
